@@ -46,4 +46,4 @@ CSVs exportados das consultas SQL para análises em Python (project_sql_result_0
 
 ✅ Resultados
 
-O projeto permitiu identificar padrões de uso por empresa e bairro, o efeito do clima sobre a duração das corridas e insights sobre preferências dos passageiros, auxiliando decisões estratégicas para operações e planejamento da Zuber.
+O projeto permitiu identificar padrões de uso por empresa e bairro, o efeito do clima sobre a duração das corridas e insights sobre preferências dos passageiros, auxiliando decisões estratégicas para operações e planejamento da ZubeR.
